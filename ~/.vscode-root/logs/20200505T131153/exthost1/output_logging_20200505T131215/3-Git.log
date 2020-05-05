@@ -1,0 +1,43 @@
+Looking for git in: git
+Using git 2.11.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /var/www/html/bottg
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :send.php
+> git ls-files --stage -- /var/www/html/bottg/send.php
+> git cat-file -s f3d55b0806719a86fb4609daea2c7b3cd61823dc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :index.php
+> git ls-files --stage -- /var/www/html/bottg/index.php
+> git cat-file -s 87059a3431bf8c80905364d2b2e9306b1ff58b76
+> git show :send.php
+> git ls-files --stage -- /var/www/html/bottg/send.php
+> git cat-file -s f3d55b0806719a86fb4609daea2c7b3cd61823dc
+> git show :index.php
+> git ls-files --stage -- /var/www/html/bottg/index.php
+> git cat-file -s 87059a3431bf8c80905364d2b2e9306b1ff58b76
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
