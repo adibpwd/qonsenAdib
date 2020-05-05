@@ -41,3 +41,98 @@ Open repository: /var/www/html/bottg
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /var/www/html/bottg/index.php
+> git cat-file -s 9c53548bf33ef79c8a0bbc002724fce3e9ec9042
+> git show :index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /var/www/html/bottg/index.php
+> git cat-file -s 9c53548bf33ef79c8a0bbc002724fce3e9ec9042
+> git show :index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /var/www/html/bottg/index.php
+> git cat-file -s 9c53548bf33ef79c8a0bbc002724fce3e9ec9042
+> git show :index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :send.php
+> git ls-files --stage -- /var/www/html/bottg/send.php
+> git cat-file -s f3d55b0806719a86fb4609daea2c7b3cd61823dc
+> git show :index.php
+> git ls-files --stage -- /var/www/html/bottg/index.php
+> git cat-file -s 9c53548bf33ef79c8a0bbc002724fce3e9ec9042
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git ls-files --stage -- /var/www/html/bottg/index.php
+> git rev-parse --symbolic-full-name master@{u}
+> git cat-file -s 9c53548bf33ef79c8a0bbc002724fce3e9ec9042
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :index.php
+> git ls-files --stage -- /var/www/html/bottg/index.php
+> git cat-file -s 9c53548bf33ef79c8a0bbc002724fce3e9ec9042
+> git show :index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git ls-files --stage -- /var/www/html/bottg/index.php
+> git cat-file -s 9c53548bf33ef79c8a0bbc002724fce3e9ec9042
+> git show :index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
