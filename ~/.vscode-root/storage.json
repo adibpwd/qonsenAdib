@@ -2,6 +2,7 @@
     "telemetry.machineId": "8705331c62b49d8033edd137d53dd4031898a8c43c9550bcae421695aee171be",
     "openedPathsList": {
         "workspaces3": [
+            "file:///var/www/html/qonsenAdib",
             "file:///var/www/html/bottg"
         ],
         "files2": []
@@ -50,7 +51,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/var/www/html/bottg",
+                                        "fsPath": "/var/www/html/qonsenAdib",
+                                        "external": "file:///var/www/html/qonsenAdib",
+                                        "path": "/var/www/html/qonsenAdib",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/var/www/html/qonsenAdib"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///var/www/html/bottg",
                                         "path": "/var/www/html/bottg",
                                         "scheme": "file"
@@ -95,7 +107,8 @@
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As..."
+                        "label": "Save &&As...",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAll",
@@ -576,7 +589,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1450,8 +1464,8 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///var/www/html/bottg",
-            "backupPath": "/var/www/html/bottg/~/.vscode-root/Backups/1690a2c0f8fdd01f1c8c502ec0b578b6",
+            "folder": "file:///var/www/html/qonsenAdib",
+            "backupPath": "/var/www/html/qonsenAdib/~/.vscode-root/Backups/99d0ddd4316e9062e0e0c030c430b6ed",
             "uiState": {
                 "mode": 0,
                 "x": 172,
