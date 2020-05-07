@@ -33,6 +33,7 @@ Tutorial Kirim Pesan Dari Web Ke Telegram Menggunakan API
 3.Kunjungi api.telegram.com/bot{token tanpa kurawal}/getUpdates
 
 
+<img src="https://res.cloudinary.com/duh6epdw5/image/upload/v1588833794/540_15_3.61_May072020_ub5kws.gif" alt="">
 
 3.Buat web kirim pesanny
 
