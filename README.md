@@ -42,7 +42,7 @@ Tutorial Kirim Pesan Dari Web Ke Telegram Menggunakan API
 3.selamat mencoba semoga berhasil...
 
 
-<img src="https://res.cloudinary.com/duh6epdw5/image/upload/v1588760232/720_24_7.90_May062020_01_hng3hj.gif" alt="">
+<img src="https://res.cloudinary.com/duh6epdw5/image/upload/v1588776325/sendtg_mm5xam.gif" alt="">
 
 
 
