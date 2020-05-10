@@ -14,8 +14,8 @@ function tg($url, $params)
 }
 
 function sendMessage($test) 
-{
-    $key = 'bot{ token tanpa kurawal }';
+{ 
+ $key = 'bot1007203428:AAGcf2X38w1nOuYDMa6U01JACr6C1ETFxaE';
     $chat = tg('https://api.telegram.org/' . $key . '/getUpdates', '');
 
     if ($chat['ok']) { 
@@ -23,5 +23,5 @@ function sendMessage($test)
         $text = urlencode($text);
     }
 
-    return tg('https://api.telegram.org/' . $key . '/sendMessage', '?chat_id={ id tanpa kurawal }&text=' . $text);
+    return tg('https://api.telegram.org/' . $key . '/sendMessage', '?chat_id=-1001417167352&text=' . $text);
 }
