@@ -5,7 +5,7 @@
 
 <pre>
 
-Tutorial Kirim Pesan Dari Web Ke Telegram Menggunakan API
+Tutorial Kirim Pesan Dari Web Ke Telegram Menggunakan API GOOD DAY
 
 1.Buat bot telegram.
 2.Ambil ID Group/Chanel/User .
