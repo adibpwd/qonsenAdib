@@ -19,7 +19,7 @@ Tutorial Kirim Pesan Dari Web Ke Telegram Menggunakan API GOOD DAY
 2.Kirim perintah /newbot
 3.Masukan nama bot
 4.Masukan username bot. syaratnya belakang harus ada bot / _bot.Contoh : adibot / adib_bot
-5.Jika berhasil akan dapat token bot, lalu klik t.me/namabot . selengkapnya liat gambar dibawah.
+5.Jika berhasil akan dapat token bot, lalu klik t.me/namabot . selengkapnya liat gambar dibawah ya guys.
 
 
 <img src="https://res.cloudinary.com/duh6epdw5/image/upload/v1588756611/botfather_dtbwmq.gif" alt="">
